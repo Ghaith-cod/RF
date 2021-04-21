@@ -1,0 +1,148 @@
+/***********Start My Framework***********/
+
+html {
+    scroll-behavior: smooth
+}
+
+.main-color {
+    color:
+}
+
+.main-bg {
+    background-color:
+}
+
+.second-color {
+    color:
+}
+
+.second-bg {
+    background-color:
+}
+
+.overlay {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, .7);
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+}
+
+/****************************************/
+
+header {
+    padding: 20px 0;
+    background-color: #CDCE9D;
+    height: 90vh;
+
+    background-attachment: fixed
+}
+
+header h1,
+header h3,
+header h2 {
+    text-align: center;
+    margin-top: 100px;
+    color: aliceblue;
+}
+
+.fa-facebook {
+    color: hotpink;
+    margin: 20px 48%
+}
+
+.right1 {
+    float: right
+}
+
+.left1 {
+    float: left;
+    background-image: url(../imgs/WhatsApp-Image-2021-04-12-at-22.jpg);
+    background-size: cover;
+    height: 100%
+}
+
+h2 {
+    text-align: center
+}
+
+.filter-img .overlay {
+    opacity: 0;
+    transition: all ease-in-out .5s;
+}
+
+.filter-img:hover .overlay {
+    opacity: 1
+}
+
+header .overlay a {
+    margin-left: 46%
+}
+
+.btn {
+    border-radius: 30px
+}
+
+.btns {}
+
+.d1,
+.d2,
+.d3,
+.d4,
+.d5,
+.d6 {
+    position: relative;
+    color: beige;
+    background-size: cover;
+    height: 400px;
+    margin-top: 20px;
+
+}
+
+.d1 {
+    background-image: url(../imgs/1.jpeg);
+}
+
+.d2 {
+    background-image: url(../imgs/2.jpeg);
+}
+
+.d3 {
+    background-image: url(../imgs/WhatsApp%20Image%202021-04-17%20at%2016.42.37.jpeg);
+}
+
+.d4 {
+    background-image: url(../imgs/nordwood-themes-q8U1YgBaRQk-unsplash.jpg);
+}
+
+.d5 {
+    background-image: url(../imgs/mia-baker-15q2ZCDbQFU-unsplash.jpg);
+}
+
+.d6 {
+    background-image: url(../imgs/bram-naus-N1gUD_dCvJE-unsplash.jpg);
+}
+
+.op h3 {
+    margin-top: 40%;
+}
+
+.filter-btn {
+    background-color: pink
+}
+
+.left {
+    background-color: #222;
+    color: white
+}
+
+label {
+    display: block
+}
+
+.nav-item {
+    background-color:
+}
